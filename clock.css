@@ -38,14 +38,10 @@ body{
     font-family: Orbitron, serif;
 }
 
-#day{
+#day, #date{
     font-size: 40px;
 }
 
 #time{
     font-size: 48px;
-}
-
-#date{
-    font-size: 40px;
 }
